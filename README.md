@@ -12,15 +12,11 @@ Sou **Desenvolvedor Front-End** pelo **Projeto FORD <ENTER>**, iniciativa com pa
 
 ## 📝 **Sobre mim**
 
-> “Sem tempo, mas sempre aprendendo!”  
-
-De manhã: curso na **FORD <ENTER>**  
-À tarde e à noite: **trabalho**  
-De madrugada: **faculdade**  
+> “Sempre aprendendo, sempre evoluindo!”    
 
 🗺️ **Salvador - Bahia - Brasil**  
 ⚽ **Esportista:** amo **futebol**, **futsal**, **musculação** e **corrida**.  
-🎮 **Gamer:** jogo **League of Legends** e acompanho **CS2**!
+🎮 **Gamer:** jogo **League of Legends** e acompanho o competitivo tanto de **LOL** quanto de **CS2**!
 
 ---
 
