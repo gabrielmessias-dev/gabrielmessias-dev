@@ -14,7 +14,6 @@ Sou **Desenvolvedor Front-End** em transição de carreira para tecnologia, com 
 
 - 📧 E-mail: [gabrielmessias-dev@outlook.com](mailto:gabrielmessias-dev@outlook.com)  
 - 💼 LinkedIn: [gabrielmessias-dev](https://www.linkedin.com/in/gabrielmessias-dev/)  
-- 🖥️ GitHub: [gabrielmessias-dev](https://github.com/gabrielmessias-dev)  
 
 ---
 
