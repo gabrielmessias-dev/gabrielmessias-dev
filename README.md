@@ -10,16 +10,6 @@ Sou **Desenvolvedor Front-End** em transição de carreira para tecnologia, com 
 
 ---
 
-## 📝 **Sobre mim**
-
-> “Sempre aprendendo, sempre evoluindo!”  
-
-🗺️ **Salvador - Bahia - Brasil**  
-⚽ **Esportista:** amo **futebol**, **futsal**, **musculação** e **corrida**.  
-🎮 **Gamer:** jogo **League of Legends** e acompanho os cenários competitivos de **LoL** e **CS2**.  
-
----
-
 ## 📫 **Como me encontrar**
 
 - 📧 E-mail: [gabrielmessias-dev@outlook.com](mailto:gabrielmessias-dev@outlook.com)  
@@ -50,15 +40,4 @@ Sou **Desenvolvedor Front-End** em transição de carreira para tecnologia, com 
 ## ⚡ **Status no GitHub**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmessias-dev&layout=compact&theme=radical)
-
----
-
-## 🚀 **Projetos em destaque**
-
-🔹 *Clone Netflix* – Interface responsiva consumindo API de filmes.  
-🔹 *Sistema de Agendamento de Exames* – Plataforma web criada no Projeto FORD <ENTER>.  
-🔹 *Dashboard Ford* – Painel dinâmico em Angular.  
-
----
-
-> Sempre evoluindo, sempre em movimento!  
+ 
