@@ -6,7 +6,7 @@ Sou **Desenvolvedor Front-End** em transição de carreira para tecnologia, com 
 - 🌱 **Bootcamp Código Raiz – Generation Brasil** (patrocinado pela **The Coca-Cola Foundation**), com foco em full stack (back-end com NestJS/MySQL e front-end com React).  
 
 🎓 Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Estácio**.  
-📚 Também concluí cursos complementares, como **SCRUM e Metodologias Ágeis (Alura)**.  
+📚 Também concluí cursos complementares, como **SCRUM - Metodologias Ágeis (Alura)**.  
 
 ---
 
