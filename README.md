@@ -1,6 +1,6 @@
 # 👋 Olá, sou Gabriel Messias!
 
-Sou **Desenvolvedor Front-End** em transição de carreira para tecnologia, com experiência prática em **Angular, TypeScript, React, Node.js, NestJS e MySQL** através dos programas:  
+Sou **Desenvolvedor Front-End** em transição de carreira para tecnologia, com experiência prática em **JavaScript, TypeScript, Angular, React, Node.js, NestJS e MySQL** através dos programas:  
 
 - 🚗 **Projeto FORD <ENTER>** – parceria entre **SENAI CIMATEC**, **FORD** e **Rede Cidadã**, com foco em front-end.  
 - 🌱 **Bootcamp Código Raiz – Generation Brasil** (patrocinado pela **The Coca-Cola Foundation**), com foco em full stack (back-end com NestJS, banco de dados MySQL e front-end com React).  
