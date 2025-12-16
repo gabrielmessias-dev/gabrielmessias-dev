@@ -10,7 +10,7 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 🚀 **Minha Jornada:**
 Minha transição de carreira é marcada por uma formação prática intensiva (+700h) através de programas renomados:
 - **Bootcamp Código Raiz (Generation Brasil):** Formação Full Stack com foco em NestJS, React e metodologias ágeis. Carga horária de 420h.
-- **Projeto FORD <ENTER> (SENAI CIMATEC):** Especialização em Front-end com Angular e TypeScript. Carga horária de 300h.
+- **Projeto FORD ENTER (SENAI CIMATEC):** Especialização em Front-end com Angular e TypeScript. Carga horária de 300h.
 
 ---
 
