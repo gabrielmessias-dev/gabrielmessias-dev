@@ -5,7 +5,7 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 🔭 **Atualmente:**
 - 💼 Atuo como **Desenvolvedor Freelancer na Revelo**, focando em projetos de **Machine Learning**, **LLM**, **Python** e **Docker** para aprimoramento de IA.
 - ☁️ Especializando-me em **Fundamentos de Nuvem & IA** pelo programa **AWS re/Start** (Escola da Nuvem).
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na Estácio.
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na Estácio (2º Semestre).
 
 🚀 **Minha Jornada:**
 Minha transição de carreira é marcada por uma formação prática intensiva (+700h) através de programas renomados:
